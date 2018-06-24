@@ -18,6 +18,9 @@ The application is seperated into backend API generate JSON response and fronten
 * Use MongoDB as database.
 * Unit testing is a plus
 
+## GIT:
+* Use git and upload it to github.
+
 ## Docker [Plus]:
 * App should run in one container, while MongoDB in another container
 * Project should run with docker-compose
