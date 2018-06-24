@@ -6,26 +6,26 @@ Join us to build egypt first security startup.
 We are looking for a passionate Full stack Developer to work closely with the Tech Lead and Test Engineers, in order to build & scale Shieldfy platform.
 
 ## Benefits
-- [] Friendly environment.
-- [] Work with cutting edge technologies in global product.
-- [] Salary (from 7k to 11k).
-- [] Bonus & Salary encrease is available on the go.
+* Friendly environment.
+* Work with cutting edge technologies in global product.
+* Salary (from 7k to 11k).
+* Bonus & Salary encrease is available on the go.
 
 ## Requirements:
 
-- [] Excellent knowledge of PHP or Nodejs.
-- [] Excellent knowledge of MySQL.
-- [] Knowledge of Git source control.
-- [] Knowledge MongoDB and Redis.
-- [] Good understanding of security vulnerabilities ( XSS , SQLI , LFI , CSRF , RCE ).
+* Excellent knowledge of PHP or Nodejs.
+* Excellent knowledge of MySQL.
+* Knowledge of Git source control.
+* Knowledge MongoDB and Redis.
+* Good understanding of security vulnerabilities ( XSS , SQLI , LFI , CSRF , RCE ).
 
 
 ## Nice to have:
 
-- [] Previous experience in Scrum & Agile development
-- [] Knowledge of Amazon Web Services.
-- [] Knowledge of messaging queue systems ( Beanstalkd, SQS )
-- [] Knowledge of different testing framework and automation (Unit testing , TDD , BDD )
+* Previous experience in Scrum & Agile development
+* Knowledge of Amazon Web Services.
+* Knowledge of messaging queue systems ( Beanstalkd, SQS )
+* Knowledge of different testing framework and automation (Unit testing , TDD , BDD )
 
 ## Work Location
 
