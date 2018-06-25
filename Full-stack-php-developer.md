@@ -8,7 +8,7 @@ We are looking for a passionate Full stack Developer to work closely with the Te
 ## Benefits
 * Friendly environment.
 * Work with cutting edge technologies in global product.
-* Salary (from 7k to 11k).
+* Salary (up to 11k EGP).
 * Bonus & Salary encrease is available on the go.
 
 ## Requirements:
