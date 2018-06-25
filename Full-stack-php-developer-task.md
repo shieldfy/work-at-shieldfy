@@ -1,6 +1,6 @@
 # Full Stack PHP Developer
 
-Build a simple To-Do list page with 
+Build a simple To-Do list application
 
 The application is seperated into backend API generate JSON response and frontend access this api.
 
